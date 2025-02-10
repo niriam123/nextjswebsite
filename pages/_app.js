@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "../styles/globals.css";
 import '../components/index.css'
 import 'bulma/css/bulma.min.css';
 
